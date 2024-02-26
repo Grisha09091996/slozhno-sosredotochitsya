@@ -1,3 +1,16 @@
+:root {
+  --accent-color: #FF0070;
+  --background-image: url(../images/cover-image-dark.png);
+  --background-color: #000028;
+  --text-color: #F1B2CE;
+  --font-family: "IBM Plex Mono", sans-serif;
+  --font-size: 18px;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+  --accent-color-transparent: #FF007066;
+  --article__header__margin-bottom: 10px;
+}
+
 /*
   Переменные для вашего проекта
   и их переопределение под различные устройства
