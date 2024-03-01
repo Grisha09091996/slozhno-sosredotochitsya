@@ -6,7 +6,7 @@
   --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
   --text-color: #F1B2CE;
-  --font-family: "IBM Plex Mono", sans-serif;
+  --font-family: "IBM Plex Mono", monospace;
   --font-size: 18px;
   --font-weight-normal: 400;
   --font-weight-bold: 700;
